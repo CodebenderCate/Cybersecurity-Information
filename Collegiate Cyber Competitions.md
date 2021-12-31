@@ -18,7 +18,6 @@
 |:---|
 [NSA open Source](https://www.nsa.gov/resources/everyone) |
 [CIA Hacking Tools](https://github.com/Grimsfury/CIA-Hacking-Tools) |
-[Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) |
 [Google Search Operators: The Complete List](https://ahrefs.com/blog/google-advanced-search-operators) |
 [Director of National Intelligence Open Source Center](https://irp.fas.org/dni/osc/index.html) |
 [PacketLife Cheat Sheet Library](https://packetlife.net/library/cheat-sheets) |
