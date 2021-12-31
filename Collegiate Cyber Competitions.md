@@ -22,6 +22,7 @@
 
 |Red Team / Blue Team|
 |:---|
+[CIA Hacking Tools](https://github.com/Grimsfury/CIA-Hacking-Tools) |
 [Clint Bodungen's ThreatGen Red vs Blue](https://threatgen.com/red-vs-blue/) |
 [SANS Blue Team Wiki](https://wiki.sans.blue) |
 [Red Team Cheat Sheets](https://threatexpress.com/redteaming/cheatsheets) |
