@@ -16,13 +16,14 @@
 
 |Reference Materials|
 |:---|
+[NSA open Source](https://www.nsa.gov/resources/everyone) |
+[CIA Hacking Tools](https://github.com/Grimsfury/CIA-Hacking-Tools) |
 [Google Search Operators: The Complete List](https://ahrefs.com/blog/google-advanced-search-operators) |
 [Director of National Intelligence Open Source Center](https://irp.fas.org/dni/osc/index.html) |
 [PacketLife Cheat Sheet Library](https://packetlife.net/library/cheat-sheets) |
 
 |Red Team / Blue Team|
 |:---|
-[CIA Hacking Tools](https://github.com/Grimsfury/CIA-Hacking-Tools) |
 [Clint Bodungen's ThreatGen Red vs Blue](https://threatgen.com/red-vs-blue/) |
 [SANS Blue Team Wiki](https://wiki.sans.blue) |
 [Red Team Cheat Sheets](https://threatexpress.com/redteaming/cheatsheets) |
