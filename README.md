@@ -2,7 +2,7 @@
 
 # Cybersecurity Internships
 this is in no way an endorsement of any of these programs, organizations, or the like. this is strictly informational.</b><br />
-</b><br />[You can also work for GitHub](https://github.com/about/careers#internships)
+</b><br />[You can also work for GitHub](https://github.com/about/careers)
 
 # Table of Contents
   * [Specific cybersecurity internships](#specific-cybersecurity-internships)
