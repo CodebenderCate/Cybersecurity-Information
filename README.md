@@ -1,7 +1,7 @@
 ## Information for recent Cybersecurity graduates in The United States with a Bachelors Degree, designed to help students identify teams and opportunities. 
 
 # Cybersecurity Internships
-This is in no way an endorsement of any of these programs, organizations, or the like. this is strictly informational.</b><br />
+⚠️ This is in no way an endorsement of any of these programs, organizations, or the like. this is strictly informational.</b><br />
 </b><br />[You can also work for GitHub](https://github.com/about/careers)
 
 # Table of Contents
