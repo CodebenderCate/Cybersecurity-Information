@@ -14,7 +14,7 @@ This repo idea was replicated by [WiCySCCNY](https://github.com/WiCySCCNY) from 
 
 -------------------------------------------------------------------------
 
-## 📝 THE LIST 📝
+## THE LIST 
 
 |     Name      |   Location    |    Notes      |
 | ------------- | ------------- | ------------  |
