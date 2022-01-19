@@ -11,9 +11,9 @@
 
 ## Specific cybersecurity internships
 
-* [CISCO](https://jobs.cisco.com/jobs)
+* [CISCO](https://jobs.cisco.com/)
 * [FireEye](https://www.fireeye.com/company/jobs/internships.html)
-* [Palo Alto Networks](https://jobs.paloaltonetworks.com)
+* [Palo Alto Networks](https://jobs.paloaltonetworks.com/en/)
 * [Microsoft](https://careers.microsoft.com/us/en/)
 * [Northrop Grumman](https://northropgrumman.jobs)
 
