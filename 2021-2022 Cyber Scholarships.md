@@ -1,7 +1,7 @@
 # 2021-2022 Cybersecurity Scholarships
 Use this repo to keep track of Cybersecurity Scholarships in The USA
 
-## The List 👔
+## The List
 
 | Name  |  Amounts | Due Dates |
 |---|---|-------------|
