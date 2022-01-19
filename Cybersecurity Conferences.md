@@ -1,10 +1,13 @@
 # Cybersecurity Conferences
 Use this repo to keep track of Cybersecurity Scholarships in The USA
 
+⚠️ This repository is only for conferences in the United States.
+
 ## The List
 
-|Names |  Locations | Dates |
+|Name |  Location | Date |
 |--- | --- | ------------- |
+|[Women in Cybersecurity (WiCyS) 2022 Coneference](https://www.wicys.org/events/wicys-2022/) | Cleveland, Ohio | March 17, 2022 | |
 |[Gartner CFO and Finance Executive Conference: Americas 2021](https://www.gartner.com/en/conferences/na/cfo-finance-us) | Phoenix, Arizona | June 1st, 2022 | |
 |[MongoDB World 2022](https://www.mongodb.com/world-2022) | New York City, New York | June 7th, 2022 | |
 |[Vendor and Third Party Risk USA 2022](https://www.cefpro.com/forthcoming-events/vendor-risk-usa/?ref=infosec-conferenc) | New York City, New York | June 7th, 2022 | |
