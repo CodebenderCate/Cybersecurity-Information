@@ -1,9 +1,9 @@
 # Summer 2022 Tech Internships
 Use this repo to keep track of software, tech, CS, PM, quant internships for Summer 2022.
 
-:warning: **This repository is only for internships/co-ops in the United States, Canada or for Remote positions:earth_americas:.**
+**This repository is only for internships/co-ops in the United States, Canada or for Remote positions:earth_americas:.**
 
-## The List 👔
+## The List
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
