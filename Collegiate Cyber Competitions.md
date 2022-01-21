@@ -10,7 +10,6 @@
 [United States Department of Energy Cyberforce Program](https://cyberforcecompetition.com/) |
 [International Cyber Assessment and Defense Competition](https://cias.utsa.edu/competitions.html) |
 [U.S. Cyber Challenge (USCC)](https://www.uscyberchallenge.org/) |
-[Comic-Based Education and Evaluation (Comic-BEE)](https://comic-bee.com/) |
 [US Cyber Games](https://www.uscybergames.com/) |
 [HackerOne](https://www.hackerone.com/) |
 [Hacker Halted](https://www.hackerhalted.com) |
