@@ -1,7 +1,7 @@
 # Cybersecurity Conferences
-Use this repo to keep track of Cybersecurity Scholarships in The USA
+Use this repo to keep track of Cybersecurity Conferences in The USA
 
-⚠️ This repository is only for conferences in the United States.
+
 
 ## The List
 
