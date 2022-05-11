@@ -2,7 +2,6 @@
 
 |Events|
 |:---|
-[NSA Codebreaker Challenge](https://nsa-codebreaker.org/home) | 
 [National Cyber League/Cyber Skyline](https://www.nationalcyberleague.org) | 
 [Iten Wired](https://itenwired.com) |
 [GoogleCTF](https://capturetheflag.withgoogle.com/) |
