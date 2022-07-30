@@ -12,6 +12,8 @@
 [US Cyber Games](https://www.uscybergames.com/) |
 [HackerOne](https://www.hackerone.com/) |
 [Hacker Halted](https://www.hackerhalted.com) |
+[Embedded Capture the Flag (eCTF)](https://ectf.mitre.org) |
+[MITRE Academy Competitions List](https://mitrecyberacademy.org/competitions) |
 
 |Reference Materials|
 |:---|
