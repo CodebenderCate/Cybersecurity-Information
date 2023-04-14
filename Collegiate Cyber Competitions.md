@@ -13,7 +13,7 @@
 [HackerOne](https://www.hackerone.com/) |
 [Hacker Halted](https://www.hackerhalted.com) |
 [Embedded Capture the Flag (eCTF)](https://ectf.mitre.org) |
-[MITRE Academy Competitions List](https://mitrecyberacademy.org/compete) |
+[Mitre Academy Compete](https://mitrecyberacademy.org/compete) |
 
 |Reference Materials|
 |:---|
