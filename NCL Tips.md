@@ -1,7 +1,7 @@
-# NationalCyberLeagueResource
+# National Cyber League Resources
 A list of resources that are useful for the National Cyber League Competition.
 
-## Open Source Inteligence
+## Open Source Intelligence
 - [Google](google.com): Google should almost always be your first stop for OSINT questions. 
   - Get familiar with Google's more advanced search operators. [Here](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf) is a handy cheat sheet.
   - [Google reverse image search](https://www.google.com/imghp?hl=EN) is another great tool to help track down photos.
