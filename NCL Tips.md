@@ -1,5 +1,5 @@
 # NationalCyberLeagueResource
-A list of resources that are useful for the National Cyber League Competition. This list was compiled with the help of many members of the Drury Cyber Defense Team.
+A list of resources that are useful for the National Cyber League Competition.
 
 ## Open Source Inteligence
 - [Google](google.com): Google should almost always be your first stop for OSINT questions. 
@@ -140,6 +140,5 @@ A list of resources that are useful for the National Cyber League Competition. T
 - [GNU Debugger](www.cs.umd.edu/~srhuang/teaching/cmsc212/gdb-tutorial-handout.pdf): GDB is used to step through code and is used primarily for debugging. But, it can be used to understand code that has already been compiled.
 
 ## Other Tips
-- If I don't know how to do a challenge, I type in the name and append 'CTF' at the end. Sometime it'll return a writeup of a similar challenge done in a CTF that helps complete the challenge. -Ed
-- Pay close attention to the title of the challenge. It's usually a hint at how to solve the problem. - Julian
-- When I'm stuck on a challenge, I often go look at the gymnasium again to see if there are any tips or tools they list in the gym that might help me. - Jacob
+- Pay close attention to the title of the challenge. It's usually a hint at how to solve the problem.
+- When I'm stuck on a challenge, I often go look at the gymnasium again to see if there are any tips or tools they list in the gym that might help me.
