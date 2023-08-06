@@ -5,7 +5,7 @@
 # Bug Bounty For Beginners 
 
 ## What is Bug Bounty?
-- **Vulnreability Rewards Program (VRB)** - Also known as bug bounty. Offers financial rewards to individuals for finding and reporting software bugs.
+- **Vulnerability Rewards Program (VRB)** - Also known as bug bounty. Offers financial rewards to individuals for finding and reporting software bugs.
 
 ## How It Works
 Companies create financial incentives through online programs to independent bug bounty hunters (researchers) as part of a vulnerability management strategy. This is used to supplement penetration tests and internal code audits.
