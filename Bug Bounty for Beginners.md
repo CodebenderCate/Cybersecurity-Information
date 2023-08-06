@@ -1,7 +1,9 @@
-# Bug Bounty For Beginners 
 <div id="header" align="center">
   <img src="https://live.staticflickr.com/65535/48269414571_db8104170e_b.jpg"/>
 </div> 
+
+# Bug Bounty For Beginners 
+
 ## What is Bug Bounty?
 - **Vulnreability Rewards Program (VRB)** - Also known as bug bounty. Offers financial rewards to individuals for finding and reporting software bugs.
 
