@@ -15,7 +15,7 @@ Can be stressful and time-consuming
 Prices can vary
 - Low: $~150
 - Med: $~500
-- high: $~1,000 to $~3,000
+- high: roughly $1,000 to $3,000
 
 ## What You Should Learn
 **Computer Networking**: Fundamentals of inter-networking, IP and MAC addresses, ISO stack, TCP/IP stack, etc
