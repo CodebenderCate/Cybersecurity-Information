@@ -9,6 +9,14 @@ Companies create financial incentives through online programs to independent bug
 - **Internal Code Audits**: A comprehensive analysis of source code in a programming project with the intent of discovering bugs, security breaches, or violations of programming conventions.
 - **Programming Conventions**: A set of guidelines for a specific programming language that recommends programming style, practices, and methods for each aspect of a program written in that langguage.
 
+## Downside to Bug Bounty
+Doesn't guarantee coversge for all types of vulnerabilities
+Can be stressful and time-consuming
+Prices can vary
+- Low: $~150
+- Med: $~500
+- high: $~1,000 - $~3,000
+
 ## What You Should Learn
 **Computer Networking**: Fundamentals of inter-networking, IP and MAC addresses, ISO stack, TCP/IP stack, etc
 
