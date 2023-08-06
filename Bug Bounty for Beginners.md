@@ -61,3 +61,4 @@ Prices can vary
 - [PortSwigger](https://portswigger.net/)
 - [HTB Academy](https://academy.hackthebox.com/)
 - [HackerOne](https://www.hackerone.com/hackers/hacker101)
+- [Codecademy](https://www.codecademy.com/learn)
