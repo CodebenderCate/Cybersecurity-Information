@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://live.staticflickr.com/65535/48269414571_db8104170e_b.jpg" height="200" width="200"/>
+  <img src="https://live.staticflickr.com/65535/48269414571_db8104170e_b.jpg" height="300" width="200"/>
 </div> 
 
 # Bug Bounty For Beginners 
