@@ -5,11 +5,11 @@ Use this repo to keep track of Cybersecurity Conferences in 2024
 
 | Name | Description | Location | Dates | Prices |
 |---|---|---|---|---|
-~~| [SANS Secure India 2024](https://sans.org) | SANS Institute delivers a powerhouse event in cybersecurity training. | Virtual | March 18-23, 2024 | $8135 - $8645 |~~
-~~| [CSF 2024](https://www.ieee-security.org) | Annual conference for researchers in computer security to examine current theories and formal models. | Enschede, Netherlands | July 8-12, 2024 | TBD |~~
-~~| [International Conference on Security and Cryptography (SECRYPT) 2024](https://secrypt.scitevents.org) | Covers research in information and communication security. | Dijon, France | July 8-10, 2024 | TBD |~~
-~~| [HotStorage 2024](https://hotstorage.org) | Forum for cutting-edge storage research, discussing new opportunities and challenges in storage technology. | Santa Clara, CA, USA | July 8-9, 2024 | TBD |~~
-~~| [Whatcom Community College Gencyber Camp 2024](https://whatcom.edu) | Explores the field of cybersecurity through hands-on activities. | Bellingham, WA, USA | July 2024 | Free |~~
+| ~~[SANS Secure India 2024](https://sans.org)~~ | SANS Institute delivers a powerhouse event in cybersecurity training. | Virtual | ~~March 18-23, 2024~~ | $8135 - $8645 |
+| ~~[CSF 2024](https://www.ieee-security.org)~~ | Annual conference for researchers in computer security to examine current theories and formal models. | Enschede, Netherlands | ~~July 8-12, 2024~~ | TBD |
+| ~~[International Conference on Security and Cryptography (SECRYPT) 2024](https://secrypt.scitevents.org)~~ | Covers research in information and communication security. | Dijon, France | ~~July 8-10, 2024~~ | TBD |
+| ~~[HotStorage 2024](https://hotstorage.org)~~ | Forum for cutting-edge storage research, discussing new opportunities and challenges in storage technology. | Santa Clara, CA, USA | ~~July 8-9, 2024~~ | TBD |
+| ~~[Whatcom Community College Gencyber Camp 2024](https://whatcom.edu)~~ | Explores the field of cybersecurity through hands-on activities. | Bellingham, WA, USA | ~~July 2024~~ | Free |
 | [DataConnect Conference](https://dataconnectconf.com) | Discusses the latest trends in data security and connects industry leaders and technical experts. | Columbus, OH, USA | July 24-25, 2024 | TBD |
 | [CyCon](https://ccdcoe.org/cycon) | An interdisciplinary event connecting practitioners, academia, and government to discuss cybersecurity challenges. | Tallinn, Estonia | May 28-31, 2024 | €399 |
 | [Sleuthcon](https://sleuthcon.com) | A single-day event focused on cybercrime and financially-motivated threats. | Arlington, VA, USA | May 24, 2024 | $50 Virtual, $350 In-Person |
