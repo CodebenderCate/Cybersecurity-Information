@@ -10,6 +10,7 @@ Use this repo to keep track of Cybersecurity Conferences in 2024
 | [Innovate Cybersecurity Summit](https://www.innovatecybersecurity.com) | An exclusive, invite-only event for cybersecurity executives and CISOs. | Nashville, TN, USA | ~~February 25-27, 2024~~ | Invite-Only, Fully Hosted |
 | [My Security Event](https://www.mysecurityevent.com) | Features duet speaking sessions from renowned CISOs and CIOs. | Frankfurt, Germany | ~~February 27-29, 2024~~ | $499 - $999 |
 | [HIMSS 2024](https://www.himssconference.org) | The primary health information and technology conference with over 300 sessions and special programs. | Orlando, FL, USA | ~~March 11-15, 2024~~ | Starting at $945 |
+| [RSTCon](https://rstcon.org) | RSTCon is a cybersecurity conference focused on technical talks and networking within the industry. | Rochester, New York | ~~March 15, 2024~~ | $100 |
 | [SANS Secure India](https://www.sans.org/cybersecurity-training/secure-india) | SANS Institute delivers a powerhouse event in cybersecurity training. | Virtual | ~~March 18-23, 2024~~ | $8135 - $8645 |
 | [Women in Cybersecurity (WiCyS) Conference](https://www.wicys.org) | Designed to recruit, retain, and advance women in cybersecurity, welcoming both academic and industry participants. | Nashville, TN, USA | ~~April 11-13, 2024~~ | $40 - $850 |
 | [KubeCon + CloudNativeSecurityCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe) | Focuses on Kubernetes and cloud-native security. | Paris, France | ~~April 22-25, 2024~~ | TBD |
@@ -56,6 +57,7 @@ Use this repo to keep track of Cybersecurity Conferences in 2024
 | [National Cyber Summit Job Fair](https://www.nationalcybersummit.com) | Job fair for cybersecurity professionals. | Huntsville, AL, USA | September 21, 2024 | TBD |
 | [MSSP Alert Live](https://msspalert.com/live) | Premier conference for managed security service providers, offering insights, strategies, and networking. | Lake Buena Vista, FL, USA | September 23-25, 2024 | TBD |
 | [High Tech Crime Investigation Association (HTCIA) Conference and Expo](https://www.htcia.org) | Focuses on high tech crime investigation. | Atlantic City, NJ, USA | September 26, 2024 | TBD |
+| [BSides Augusta](https://bsidesaugusta.org) | BSides Augusta is an annual cybersecurity conference providing a venue for InfoSec professionals to learn and discuss. | Augusta, Georgia | September 28, 2024 | $20 |
 | [ICE International Cyber Expo](https://www.internationalcyberexpo.com) | Brings together cybersecurity professionals to explore the latest advancements and best practices in the industry, offering a dynamic platform for networking and education. | London, UK | October 1-2, 2024 | TBD |
 | [CyberCon](https://www.cybercon.com) | An interdisciplinary event connecting practitioners, academia, and government to discuss cybersecurity challenges. | Bismarck, ND, USA | October 4, 2024 | TBD |
 | [Identity Week America](https://www.terrapinn.com/conference/identity-week-america) | Focuses on identity management and security. | Washington DC, USA | October 4, 2024 | TBD |
