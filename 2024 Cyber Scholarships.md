@@ -3,8 +3,8 @@ Use this repo to keep track of Cybersecurity Scholarships in The USA (not all sc
 
 ## The List
 
-| Name  |  Amounts | Due Dates |
-|---|---|-------------|
+| Name  | Description | Amounts | Due Dates |
+|---|---|---|---|
 | [Cybersecurity and Education Center Scholarships](https://www.iamcybersafe.org/s/scholarships) | Scholarships for undergrad, grad, and women in cybersecurity | Varies | February 29, 2024 |
 | [Women in Cybersecurity Scholarship](https://www.wicys.org/resources/scholarship-opportunities/) | Financial support for women pursuing cybersecurity degrees | $5,000 | February 28, 2024 |
 | [SVCF Latinos In Technology Scholarship](https://www.siliconvalleycf.org/scholarships/lit) | Support for Latino students in tech fields | $18,000 | February 28, 2024 |
