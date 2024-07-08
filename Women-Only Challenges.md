@@ -1,4 +1,4 @@
-# Women Only Hiring Challenges 2022 [(Source)](https://www.hackerearth.com/challenges/?utm_source=banner&utm_medium=he&utm_campaign=HackerEarthChallenges)
+# Women Only Hiring Challenges [(Source)](https://www.hackerearth.com/challenges/?utm_source=banner&utm_medium=he&utm_campaign=HackerEarthChallenges)
  
 |     Challenge      |   Eligibility    |
 | ------------------ | ---------------- |
