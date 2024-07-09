@@ -1,7 +1,7 @@
 # Current Internships Availble
 ### Some of these links are copied from a previous version of this list and have not yet been verified. Please proceed with caution
 
-| Name  |  Location |  Notes | Deadline | Pay Rates | Other Information |
+| Name  |  Location |  Description | Deadline | Pay Rates | Notes |
 |---|---|-------------|--------|----------|------------------|
 | [Gusto](https://boards.greenhouse.io/gusto/jobs) | SF, NYC, Denver | Software Engineering Internship | Rolling | Competitive | Full-time, benefits |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | NYC, Chicago, London, Austin | SWE, Algo Internship | Rolling | Competitive | Full-time, benefits |
