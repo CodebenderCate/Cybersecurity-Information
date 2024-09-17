@@ -33,26 +33,26 @@ Use this repo to keep track of Cybersecurity Conferences in 2024
 | [Regulatory Compliance Conference](https://www.aba.com) | Addresses regulatory compliance issues in various industries. | Orlando, FL, USA | ~~June 21, 2024~~ | TBD |
 | [North American Manufacturing Research Conference (NAMRC)](https://www.sme.org) | Focuses on manufacturing research and development. | West Lafayette, IN, USA | ~~June 27, 2024~~ | TBD |
 | [AFCEA Mid-America Job Fair](https://www.afcea.org) | Job fair for professionals in the fields of communications, electronics, and cybersecurity. | St. Louis, MO, USA | ~~June 29, 2024~~ | TBD |
-| [Industrial Conference on Data Mining (ICDM)](https://www.data-mining-forum.de) | Focuses on the latest research in data mining. | New York City, NY, USA | July 1, 2024 | TBD |
-| [HotStorage](https://www.hotstorage.org) | Forum for cutting-edge storage research, discussing new opportunities and challenges in storage technology. | Santa Clara, CA, USA | July 8-9, 2024 | TBD |
-| [International Conference on Security and Cryptography (SECRYPT)](https://www.secrypt.org) | Covers research in information and communication security. | Dijon, France | July 8-10, 2024 | TBD |
-| [PhilSec](https://philsec.ph) | A premier summit in the Philippines focusing on cybersecurity strategies and solutions. | Manila, Philippines | July 10-11, 2024 | TBD |
-| [USENIX ATC](https://www.usenix.org/conference/atc24) | Covers a wide range of practical aspects related to computer systems, including security and privacy. | Santa Clara, CA, USA | July 10-12, 2024 | TBD |
-| [CSF Conference](https://www.csf-conference.org) | Annual conference for researchers in computer security to examine current theories and formal models. | Enschede, Netherlands | July 8-12, 2024 | TBD |
-| [ToorCamp](https://www.toorcamp.org) | A hacker camp with hands-on workshops and talks. | San Juan Islands, WA, USA | July 13, 2024 | TBD |
-| [The Cyber Strategy Retreat](https://www.thecyberstrategyretreat.com) | A strategic retreat for cybersecurity executives. | Atlanta, GA, USA | July 13, 2024 | TBD |
-| [DataConnect Conference](https://www.dataconnectconf.com) | Discusses the latest trends in data security and connects industry leaders and technical experts. | Columbus, OH, USA | July 24-25, 2024 | TBD |
-| [Whatcom Community College Gencyber Camp](https://www.whatcom.edu) | Explores the field of cybersecurity through hands-on activities. | Bellingham, WA, USA | July 2024 | Free |
-| [DFRWS USA](https://www.dfrws.org) | Premier event for digital forensics and incident response professionals, featuring workshops and training sessions. | Louisiana, USA | July 28 - August 1, 2024 | TBD |
-| [SANS Security Awareness Summit](https://www.sans.org) | Focuses on security awareness and training. | Austin, TX, USA | August 3, 2024 | TBD |
-| [Black Hat USA](https://www.blackhat.com) | Known for its technical research presentations, Black Hat offers deep insights into the latest cybersecurity trends and developments. | Las Vegas, NV, USA | August 3-8, 2024 | Starting at $2,195 |
-| [The Diana Initiative](https://www.dianainitiative.org) | Focuses on helping underrepresented groups in information security, fostering empowerment and networking opportunities. | Las Vegas, NV, USA | August 5, 2024 | TBD |
-| [DEF CON](https://www.defcon.org) | A prominent hacker convention with a focus on hardware and software hacking, cybersecurity competitions, and more. | Las Vegas, NV, USA | August 8-11, 2024 | TBD |
-| [TechNet Augusta](https://events.afcea.org/augusta22/public/enter.aspx) | Focuses on military cybersecurity. | Augusta, GA, USA | August 16, 2024 | TBD |
-| [Droidcon NYC](https://www.nyc.droidcon.com) | Focuses on Android development and security. | New York City, NY, USA | September 1, 2024 | TBD |
-| [PCI SSC North America Community Meeting](https://www.pcisecuritystandards.org) | Key event for PCI security standards. | Boston, MA, USA | September 10-12, 2024 | $295 |
-| [Global Security Exchange (GSX)](https://www.gsx.org) | A leading event for security professionals, covering a range of security topics. | Atlanta, GA, USA | September 12, 2024 | TBD |
-| [Fal.Con](https://www.crowdstrike.com/falcon) | Industry leaders come together to transform business, disrupt the legacy security market, and build a safer future. | Las Vegas, NV, USA | September 16-19, 2024 | TBD |
+| [Industrial Conference on Data Mining (ICDM)](https://www.data-mining-forum.de) | Focuses on the latest research in data mining. | New York City, NY, USA | ~~July 1, 2024~~ | TBD |
+| [HotStorage](https://www.hotstorage.org) | Forum for cutting-edge storage research, discussing new opportunities and challenges in storage technology. | Santa Clara, CA, USA | ~~July 8-9, 2024~~ | TBD |
+| [International Conference on Security and Cryptography (SECRYPT)](https://www.secrypt.org) | Covers research in information and communication security. | Dijon, France | ~~July 8-10, 2024~~ | TBD |
+| [PhilSec](https://philsec.ph) | A premier summit in the Philippines focusing on cybersecurity strategies and solutions. | Manila, Philippines | ~~July 10-11, 2024~~ | TBD |
+| [USENIX ATC](https://www.usenix.org/conference/atc24) | Covers a wide range of practical aspects related to computer systems, including security and privacy. | Santa Clara, CA, USA | ~~July 10-12, 2024~~ | TBD |
+| [CSF Conference](https://www.csf-conference.org) | Annual conference for researchers in computer security to examine current theories and formal models. | Enschede, Netherlands | ~~July 8-12, 2024~~ | TBD |
+| [ToorCamp](https://www.toorcamp.org) | A hacker camp with hands-on workshops and talks. | San Juan Islands, WA, USA | ~~July 13, 2024~~ | TBD |
+| [The Cyber Strategy Retreat](https://www.thecyberstrategyretreat.com) | A strategic retreat for cybersecurity executives. | Atlanta, GA, USA | ~~July 13, 2024~~ | TBD |
+| [DataConnect Conference](https://www.dataconnectconf.com) | Discusses the latest trends in data security and connects industry leaders and technical experts. | Columbus, OH, USA | ~~July 24-25, 2024~~ | TBD |
+| [Whatcom Community College Gencyber Camp](https://www.whatcom.edu) | Explores the field of cybersecurity through hands-on activities. | Bellingham, WA, USA | ~~July 2024~~ | Free |
+| [DFRWS USA](https://www.dfrws.org) | Premier event for digital forensics and incident response professionals, featuring workshops and training sessions. | Louisiana, USA | ~~July 28 - August 1, 2024~~ | TBD |
+| [SANS Security Awareness Summit](https://www.sans.org) | Focuses on security awareness and training. | Austin, TX, USA | ~~August 3, 2024~~ | TBD |
+| [Black Hat USA](https://www.blackhat.com) | Known for its technical research presentations, Black Hat offers deep insights into the latest cybersecurity trends and developments. | Las Vegas, NV, USA | ~~August 3-8, 2024~~ | Starting at $2,195 |
+| [The Diana Initiative](https://www.dianainitiative.org) | Focuses on helping underrepresented groups in information security, fostering empowerment and networking opportunities. | Las Vegas, NV, USA | ~~August 5, 2024~~ | TBD |
+| [DEF CON](https://www.defcon.org) | A prominent hacker convention with a focus on hardware and software hacking, cybersecurity competitions, and more. | Las Vegas, NV, USA | ~~August 8-11, 2024~~ | TBD |
+| [TechNet Augusta](https://events.afcea.org/augusta22/public/enter.aspx) | Focuses on military cybersecurity. | Augusta, GA, USA | ~~August 16, 2024~~ | TBD |
+| [Droidcon NYC](https://www.nyc.droidcon.com) | Focuses on Android development and security. | New York City, NY, USA | ~~September 1, 2024~~ | TBD |
+| [PCI SSC North America Community Meeting](https://www.pcisecuritystandards.org) | Key event for PCI security standards. | Boston, MA, USA | ~~September 10-12, 2024~~ | $295 |
+| [Global Security Exchange (GSX)](https://www.gsx.org) | A leading event for security professionals, covering a range of security topics. | Atlanta, GA, USA | ~~September 12, 2024~~ | TBD |
+| [Fal.Con](https://www.crowdstrike.com/falcon) | Industry leaders come together to transform business, disrupt the legacy security market, and build a safer future. | Las Vegas, NV, USA | ~~September 16-19, 2024~~ | TBD |
 | [DevOpsDays Portland](https://www.devopsdays.org) | Focuses on DevOps practices and culture. | Portland, OR, USA | September 19, 2024 | TBD |
 | [National Cyber Summit Job Fair](https://www.nationalcybersummit.com) | Job fair for cybersecurity professionals. | Huntsville, AL, USA | September 21, 2024 | TBD |
 | [MSSP Alert Live](https://msspalert.com/live) | Premier conference for managed security service providers, offering insights, strategies, and networking. | Lake Buena Vista, FL, USA | September 23-25, 2024 | TBD |
@@ -69,6 +69,7 @@ Use this repo to keep track of Cybersecurity Conferences in 2024
 | [ISACA Europe Conference: Digital Trust World](https://www.isaca.org/conferences) | A top event for digital trust and cybersecurity experts, featuring keynote speakers, panel discussions, and interactive workshops. | Dublin, Ireland | October 17-19, 2024 | TBD |
 | [SecTor](https://sector.ca) | Renowned for bringing together international experts to discuss underground threats and corporate defenses. | Toronto, Canada | October 23-26, 2024 | TBD |
 | [SAINTCON](https://www.saintcon.org) | Focuses on providing education, training, and community-driven activities in cybersecurity. | Utah, USA | October 2024 | $200 - $300 |
+| [Simply Cyber Con](https://simplycybercon.org/) | a product of Simply Cyber's community, where seasoned professionals and newcomers gather to soak up all things cybersecurity | Charleston, SC, USA & virtual | November 1, 2024 | $20 in person, Free virtual |
 | [Texas Cyber Summit](https://texascybersummit.org) | A cybersecurity summit with various tracks and workshops. | San Antonio, TX, USA | November 11, 2024 | TBD |
 | [DEATHCon](https://deathcon.org) | A globally-distributed cybersecurity conference focused on Detection Engineering and Threat Hunting. The event includes hands-on workshops, hacking laboratories, and Capture-the-Flag events. Workshop instructions are pre-recorded to accommodate various time zones, with live support via Slack. | Seattle, Orlando, Montreal, Edinburgh, Amsterdam, Bonn, Kuala Lumpur, and Online | November 16-17, 2024 | $170 Online, $300+ In-Person |
 | [Global Cyber Conference](https://globalcyberconference.org) | International event focusing on cybersecurity and privacy. | Zurich, Switzerland | November 26-27, 2024 | TBD |
