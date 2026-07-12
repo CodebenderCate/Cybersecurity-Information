@@ -1,9 +1,6 @@
 # Cybersecurity Conferences (2026–2027)
 ## Use this list to track key industry events across the US, UK, and Canada.
 
-> **Last updated:** July 12, 2026
-> Rows shown with ~~strikethrough~~ (Status: *Passed*) have already taken place but are kept for reference. Events with Status *Upcoming* are still to come.
-
 ## 2026 Events
 
 | Name | Description | Location | Dates | Prices | Status |
