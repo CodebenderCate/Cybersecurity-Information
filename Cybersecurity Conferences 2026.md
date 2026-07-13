@@ -45,6 +45,7 @@
 | [VehicleSec '26](https://www.usenix.org/conference/vehiclesec26) | Symposium on Vehicle Security and Privacy. | Baltimore, MD | Aug 10–11, 2026 | $600 - $900 | Upcoming |
 | [USENIX Security '26](https://www.usenix.org/conference/usenixsecurity26) | Major peer-reviewed security symposium. | Baltimore, MD | Aug 12–14, 2026 | $900 - $1,200 | Upcoming |
 | [Dreamforce 2026](https://www.salesforce.com/dreamforce/) | AI, CRM, and cloud ecosystem flagship. | San Francisco, CA | Sept 15–17, 2026 | $1,800 - $2,300 | Upcoming |
+| [Hacker Halted 2026](https://hackerhalted.com/) | Cybersecurity conference focused on ethical hacking, emerging threats, security leadership, training, and hands-on security education. | Atlanta, GA | Oct 8–9, 2026 (Pre-conference training Oct 4–7, 2026) | $199 - $214 | Upcoming |
 | [Gartner IT Symposium/Xpo](https://www.gartner.com/en/conferences/na/symposium-us) | CIO-level strategy and IT leadership. | Orlando, FL | Oct 19–22, 2026 | $4,500+ | Upcoming |
 | [OWASP Global AppSec US](https://owasp.org/events/) | Application and software security flagship. | San Francisco, CA | Nov 2–6, 2026 | $1,200 - $1,800 | Upcoming |
 | [Microsoft Ignite 2026](https://ignite.microsoft.com/) | Dev and IT pro-focused product roadmap. | San Francisco, CA | Nov 17–20, 2026 | $1,800 - $2,200 | Upcoming |
